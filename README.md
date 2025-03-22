@@ -23,6 +23,9 @@ I'm a passionate university student with a love for coding and technology. When 
   <a href="https://github.com/Owais5514/Owais5514">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Owais5514&repo=Owais5514&theme=tokyonight" />
   </a>
+  <a href="https://github.com/Owais5514/Dhaka-MRT-Timetable">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Owais5514&repo=Dhaka-MRT-Timetable&theme=tokyonight" />
+  </a>
 </div>
 
 ## 🛠️ Technologies & Tools
