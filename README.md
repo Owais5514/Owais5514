@@ -20,7 +20,7 @@ I'm a passionate university student with a love for coding and technology. When 
 ## 🌟 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/Owais5514/Owais5514">
+  <a href="https://github.com/Owais5514/Dhaka-MRT-Timetable">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Owais5514&repo=Owais5514&theme=tokyonight" />
   </a>
 </div>
