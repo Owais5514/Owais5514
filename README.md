@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Owais
+# 👋 Hi, I'm Raiyan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;University+Student;Manga+Enthusiast;Public+Transport+Advocate" alt="Typing SVG" />
